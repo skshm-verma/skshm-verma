@@ -1,16 +1,11 @@
-# Saksham Verma
-
 ![profile_banner](https://github.com/skshm-verma/skshm-verma/assets/106864834/8303c97a-47ff-4c8c-8d1b-29d4759a7a05)
-
 ## Hi there, I'm Saksham Verma 👋
 
 ### Full Stack Web Developer | MERN Stack Expert
 
 I specialize in crafting dynamic, user-centric web applications using cutting-edge technology.
 
----
-
-![pikaso_texttoimage_A-web-developer-sitting-with-a-laptop-and-big-comp](https://github.com/skshm-verma/skshm-verma/assets/106864834/b0d5ffee-86da-4b34-8288-43c7e022b9f9)
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ### 🔧 Technologies & Tools
 
@@ -36,7 +31,6 @@ I specialize in crafting dynamic, user-centric web applications using cutting-ed
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
 
 ### 📫 How to reach me:
 
@@ -48,7 +42,11 @@ I specialize in crafting dynamic, user-centric web applications using cutting-ed
 
 ### 🌟 GitHub Stats
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamverma&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm-verma&show_icons=true&locale=en&layout=compact" alt="ankitkumarmishra5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skshm-verma&show_icons=true&locale=en" alt="ankitkumarmishra5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skshm-verma&" alt="ankitkumarmishra5" /></p>
 
 ---
 
