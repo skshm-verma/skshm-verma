@@ -12,10 +12,10 @@
 <table>
     <tr>
         <td width="50%" align="center">
-                <img width="400px" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm-verma&show_icons=true&locale=en&layout=compact" alt="skshm-verma" />
+                <img width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=skshm-verma&show_icons=true&locale=en&layout=compact" alt="skshm-verma" />
         </td>
-        <td width="50%">
-               <img alt="Coding"  width="500px" height="300px" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+        <td width="50%" align="center" >
+               <img alt="Coding" width="90%"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
         </td>
     </tr>
     <tr>
@@ -93,10 +93,10 @@
     </tr>
     <tr>
       <td>
-        <img align='center' height='200'  width='500' src="https://github-readme-stats.vercel.app/api?username=skshm-verma&show_icons=true&locale=en" alt="skshm-verma" />
+        <img align='center' src="https://github-readme-stats.vercel.app/api?username=skshm-verma&show_icons=true&locale=en" alt="skshm-verma" />
       </td>
       <td>
-        <img align='center' height='200' width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=skshm-verma" alt="skshm-verma" />
+        <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=skshm-verma" alt="skshm-verma" />
       </td>
     </tr>
   </table>
